@@ -7,7 +7,7 @@ let stringDez = '10';
 
 // funcao compara valor
 function comparacao(a, b){
-    return Number(a) === b 
+    return a == b 
     ? 'As variáveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes'
     : 'As variáveis numeroUm e stringUm não tem o mesmo valor' 
 };
