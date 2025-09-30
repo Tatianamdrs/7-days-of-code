@@ -18,4 +18,5 @@ O desafio é projetado para melhorar **raciocínio lógico, resolução de probl
 | Dia | Foco / Exercício | Status | Notas / Link |
 |-----|-----------------|--------|--------------|
 | Dia 1 | Operações Booleanas | ✅ Concluído | [Ver código](Dia-1/dia-1.js) |
+| Dia 2 | Capturar e armazenar variáveis | ✅ Concluído | [Ver código](Dia-2/dia-2.js) |
 
